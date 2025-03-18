@@ -1,5 +1,11 @@
 {
-    "domain": "https://onlinesim.io/",
-    "api_url": "https://onlinesim.io/api/",
-    "referral_url": "https://onlinesim.io/?ref=2581974"
+  "domain": "https://onlinesim.io/",
+  "api_url": "https://onlinesim.io/api/",
+  "referral_url": "https://onlinesim.io/?ref=2581974",
+  "mirrors": [
+    "https://onlinesim.info/",
+    "https://onlinesim.work/",
+    "https://onlinesim.club/",
+    "https://onlinesim.site/"
+  ]
 }
